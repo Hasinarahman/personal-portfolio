@@ -21,7 +21,7 @@ until now it does not need to insall.
 
 ## Usage 🎯
 
-for using this site go to this link  (https://github.com/Hasinarahman/product-landing-page)
+for using this site go to this link  (https://github.com/Hasinarahman/personal-portfolio/tree/personal-portfolio)
 - if you have account you can sign in
 - if you do not have ccount first create a account then go to site and you see the all info about me about my works and more.
 

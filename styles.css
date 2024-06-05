@@ -1,4 +1,4 @@
-.nav-bar {
+#navbar {
   position: fixed;
   background-color: white;
   width: 100%;
@@ -7,7 +7,7 @@
   box-shadow: 0 2px 4px 0 rgba(236, 79, 202, 0.2), 0 3px 10px 0 rgba(236, 107, 204, 0.19);
 }
 
-.nav-bar a {
+#navbar a {
   float: left;
   color: #020202;
   text-align: center;
@@ -16,12 +16,12 @@
   font-size: 16px;
 }
 
-.nav-bar a.active {
+#navbar a.active {
   color:white;
   background-color: #e6127c;
 }
 
-.nav-bar input[type=text] {
+#navbar input[type=text] {
   float: right;
   padding: 6px;
   border: 2px;
@@ -143,3 +143,14 @@ h3{
   text-shadow: 0 0 7px #fff,  0 0 10px #fff,  0 0 42px #e6127c,  0 0 77px #e6127c,  0 0 100px #e6127c;
 }
 
+@media screen and (max-width: 600px) {
+  .nav-bar a {
+    float: none;
+    width: 100%;
+  }
+
+  .nav-bar input[type=text]{
+     float: none;
+    width: 50%;
+  }
+}
