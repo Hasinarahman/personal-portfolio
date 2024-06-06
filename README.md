@@ -10,7 +10,7 @@
 
 
 ## Demo 📸
-![Demo](C:\Users\HCS\Documents\GitHub\personal portfolio\personal-portfolio\New folder (2)\portfolio.PNG)
+![new p](https://github.com/Hasinarahman/personal-portfolio/assets/168626170/7c423cf9-26ab-4b02-89a4-e89a67029954)
 
 ## Technologies Used 🛠️
 - HTML
