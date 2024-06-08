@@ -10,7 +10,7 @@
 
 
 ## Demo 📸
-![new p](https://github.com/Hasinarahman/personal-portfolio/assets/168626170/7c423cf9-26ab-4b02-89a4-e89a67029954)
+![new pi](https://github.com/Hasinarahman/personal-portfolio/assets/168626170/8f116c55-0aad-4865-b476-3ec93c437635)
 
 ## Technologies Used 🛠️
 - HTML
