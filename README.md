@@ -12,6 +12,9 @@
 ## Demo 📸
 ![new pi](https://github.com/Hasinarahman/personal-portfolio/assets/168626170/8f116c55-0aad-4865-b476-3ec93c437635)
 
+## Deploy link
+(https://hasinarahman.github.io/personal-portfolio/)
+
 ## Technologies Used 🛠️
 - HTML
 - CSS
